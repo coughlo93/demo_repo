@@ -1,1 +1,3 @@
-# demo_repo
+# Demonstration Repository
+
+A demonstration repository for teaching
